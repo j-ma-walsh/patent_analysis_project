@@ -9,4 +9,4 @@
 - Visualisations were created using tableau.
 - Aim of the project was to tell a story about the modern technology landscape using patent application data. 
 
-![alt text](image.jpg)
+![Top Corporations Globally by Patent Applications filed - from sample of 1m applicaitons from 2017-2021](Tree Map of top 50 Corps - Labelled.png)
